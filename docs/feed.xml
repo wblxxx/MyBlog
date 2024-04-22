@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://wblxxx.github.io/MyBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wblxxx.github.io/MyBlog/" rel="alternate" type="text/html" /><updated>2024-04-22T13:25:51+08:00</updated><id>https://wblxxx.github.io/MyBlog/feed.xml</id><title type="html">ZxBlog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>wblxxx</name></author><entry><title type="html">作业总结</title><link href="https://wblxxx.github.io/MyBlog/school/2024/04/21/%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.html" rel="alternate" type="text/html" title="作业总结" /><published>2024-04-21T23:28:54+08:00</published><updated>2024-04-21T23:28:54+08:00</updated><id>https://wblxxx.github.io/MyBlog/school/2024/04/21/%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93</id><content type="html" xml:base="https://wblxxx.github.io/MyBlog/school/2024/04/21/%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.html"><![CDATA[<h3 id="博客主题及其选取原因">博客主题及其选取原因</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://wblxxx.github.io/MyBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wblxxx.github.io/MyBlog/" rel="alternate" type="text/html" /><updated>2024-04-22T14:29:15+08:00</updated><id>https://wblxxx.github.io/MyBlog/feed.xml</id><title type="html">ZxBlog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>wblxxx</name></author><entry><title type="html">作业总结</title><link href="https://wblxxx.github.io/MyBlog/school/2024/04/21/%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.html" rel="alternate" type="text/html" title="作业总结" /><published>2024-04-21T23:28:54+08:00</published><updated>2024-04-21T23:28:54+08:00</updated><id>https://wblxxx.github.io/MyBlog/school/2024/04/21/%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93</id><content type="html" xml:base="https://wblxxx.github.io/MyBlog/school/2024/04/21/%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.html"><![CDATA[<h2 id="博客主题及其选取原因">博客主题及其选取原因</h2>
 
 <p>我选择使用 Jekyll 静态网站生成器和 YAT 主题来创建我的博客。我对这个项目充满热情，因为它不仅让我有机会分享个人思考、学习笔记和技术见解，而且还能够提升我的前端开发技能。我选择 YAT 主题是因为它的简洁性和易用性，这让我能够专注于内容创作，而不是花费太多时间在布局和设计上。</p>
 
-<!--more-->
-
-<h3 id="博客页面布局及其设计思路">博客页面布局及其设计思路</h3>
+<h2 id="博客页面布局及其设计思路">博客页面布局及其设计思路</h2>
 
 <p>我的博客包括五个主要页面，每个页面都有其独特的目的和布局设计：</p>
 
@@ -18,21 +16,21 @@
 
 <p>在设计这些页面时，我的主要目标是保持清晰和一致的导航结构，确保访问者可以轻松地找到他们感兴趣的内容。</p>
 
-<h3 id="博客功能实现及其技术选择">博客功能实现及其技术选择</h3>
+<h2 id="博客功能实现及其技术选择">博客功能实现及其技术选择</h2>
 
 <p>我选择 Jekyll 作为我的静态网站生成器，主要是因为它的简单性和对 Markdown 的支持，这让我能够轻松地写作和发布内容。YAT 主题为我的博客提供了一个优雅且响应式的界面，无需我进行太多的定制即可使用。</p>
 
-<h3 id="博客制作过程中遇到的问题及其解决方法">博客制作过程中遇到的问题及其解决方法</h3>
+<h2 id="博客制作过程中遇到的问题及其解决方法">博客制作过程中遇到的问题及其解决方法</h2>
 
 <p>在制作博客的过程中，我遇到了一些挑战，特别是在配置 Jekyll 环境和理解 YAT 主题的自定义选项方面。通过查阅官方文档、浏览相关论坛和一些试错，我最终解决了这些问题。这个过程教会了我耐心和解决问题的重要性，也提高了我的技术能力。</p>
 
-<h3 id="反思">反思</h3>
+<h2 id="反思">反思</h2>
 
 <p>通过这次作业，我不仅学会了如何使用 Jekyll 和 YAT 主题来创建和管理一个静态博客，还增强了我的问题解决能力。虽然过程中遇到了一些挑战，但通过自学和努力，我能够克服这些障碍，这让我对自己的能力有了更多的信心。未来，我计划继续完善我的博客，定期更新内容，并探索更多的功能和优化以提升访问者的体验。</p>
 
 <hr />
 
-<p>请根据你的个人经验调整上述内容，以确保它准确反映了你完成这项作业的过程和心得。</p>]]></content><author><name>wblxxx</name></author><category term="school" /><category term="homework" /><summary type="html"><![CDATA[阿啊阿啊阿啊阿啊阿啊]]></summary></entry><entry><title type="html">An exhibit of Markdown</title><link href="https://wblxxx.github.io/MyBlog/markdown/2018/12/05/an-exhibit-of-markdown.html" rel="alternate" type="text/html" title="An exhibit of Markdown" /><published>2018-12-05T00:00:00+08:00</published><updated>2018-12-05T00:00:00+08:00</updated><id>https://wblxxx.github.io/MyBlog/markdown/2018/12/05/an-exhibit-of-markdown</id><content type="html" xml:base="https://wblxxx.github.io/MyBlog/markdown/2018/12/05/an-exhibit-of-markdown.html"><![CDATA[<p>This note demonstrates some of what <a href="https://daringfireball.net/projects/markdown/">Markdown</a> is capable of doing.</p>
+<p>请根据你的个人经验调整上述内容，以确保它准确反映了你完成这项作业的过程和心得。</p>]]></content><author><name>wuzexian</name></author><category term="school" /><category term="homework" /><category term="summary" /><summary type="html"><![CDATA[博客主题及其选取原因]]></summary></entry><entry><title type="html">An exhibit of Markdown</title><link href="https://wblxxx.github.io/MyBlog/markdown/2018/12/05/an-exhibit-of-markdown.html" rel="alternate" type="text/html" title="An exhibit of Markdown" /><published>2018-12-05T00:00:00+08:00</published><updated>2018-12-05T00:00:00+08:00</updated><id>https://wblxxx.github.io/MyBlog/markdown/2018/12/05/an-exhibit-of-markdown</id><content type="html" xml:base="https://wblxxx.github.io/MyBlog/markdown/2018/12/05/an-exhibit-of-markdown.html"><![CDATA[<p>This note demonstrates some of what <a href="https://daringfireball.net/projects/markdown/">Markdown</a> is capable of doing.</p>
 
 <h2 id="an-exhibit-of-markdown">An exhibit of Markdown</h2>
 
