@@ -1,1 +1,1 @@
-Sitemap: https://wblxxx.github.io/MyBlog/sitemap.xml
+Sitemap: http://localhost:4000/MyBlog/sitemap.xml
